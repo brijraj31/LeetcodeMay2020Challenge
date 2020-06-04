@@ -1,4 +1,4 @@
-package Day03;
+package Day03_RansomNote;
 
 import java.util.Map;
 import java.util.Scanner;

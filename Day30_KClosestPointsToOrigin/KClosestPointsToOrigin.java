@@ -1,3 +1,4 @@
+package Day30_KClosestPointsToOrigin;
 // Problem Link : https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/
 
 // K Closest Points to Origin
